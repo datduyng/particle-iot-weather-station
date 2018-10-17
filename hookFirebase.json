@@ -1,0 +1,16 @@
+{
+    "event": "sensorLog",
+    "url": "https://particle-306ad.firebaseio.com/sensorLog/data.json",
+    "requestType": "POST",
+    "query": {
+    	"auth":"ey9hfDgxQRr4EraiXuRBS1LWHwCwiq4Qqm2EbkLT"
+    },
+    "json": {
+		"temp": "{{temp}}",
+		"test": "{{test}}",
+		"lightValue": "{{lightValue}}",
+		"ts": "{{PARTICLE_PUBLISHED_AT}}"
+    },
+    "mydevices": true,
+    "noDefaults": true
+}
