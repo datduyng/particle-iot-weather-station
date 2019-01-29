@@ -1,6 +1,6 @@
 # Weather station project requirements
 
-
+## Project Info
 ### I.Hardware requirement
 - A fully developed end to end weather station need to be created. (- start by create a flow diagram of your system/ UML diagram). Here is an [example](https://user-images.githubusercontent.com/35666615/51284584-9f0f5a00-19b1-11e9-9326-608e5ffdcf01.jpg). [Good Diagram drawing platform](https://www.lucidchart.com)
 - Design of hardware components should be modularized. Example: If user would like to add new sensor or node(an extra Arduino Nano), then your system should allow user do that with out addding much code.
